@@ -29,7 +29,7 @@ Create or Select a Discord Application Log in to the Discord Developer Portal an
 
 Copy the Client ID On the application's main page, copy the Application ID.
 
-Configure in the Program The first time you run the program, you will be prompted to enter this Client ID. You can also edit it later via the Edit Client ID option in the system tray context menu.
+# Configure in the Program The first time you run the program, you will be prompted to enter this Client ID. You can also edit it later via the Edit Client ID option in the system tray context menu.
 
 Usage
 Background Execution: The program runs in the background with a system tray icon.
@@ -42,18 +42,15 @@ Edit Client ID: Modify the Discord Client ID if needed.
 
 Exit: Close the program.
 
-Terminal Commands (if applicable):
+ #Terminal Commands (if applicable):
 
-start : Launch Survev.io and update Discord RPC.
+**start : Launch Survev.io and update Discord RPC.**
 
-stop : Stop the RPC activity.
+**stop : Stop the RPC activity.**
 
 exit : Exit the program.
 
-Installation / Converting to .exe
-The script is already compiled into an .exe file.
-
 To enable automatic startup, ensure the .exe is placed in your Windows startup folder.
 
-Support
-If you have any questions or issues, feel free to open an issue on GitHub or contact me for assistance.
+# Support
+# If you have any questions or issues, feel free to open an issue on GitHub or contact me for assistance.
