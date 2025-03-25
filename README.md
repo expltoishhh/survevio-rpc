@@ -1,10 +1,10 @@
 # survevio-rpc
 
-Description
-This program displays a custom Discord Rich Presence activity for Survev.io.. It runs in the background and is controlled via a system tray icon.
+# Description
+# This program displays a custom Discord Rich Presence activity for Survev.io.. It runs in the background and is controlled via a system tray icon.
 
-Features
-Rich Presence display in Discord.
+# Features
+# Rich Presence display in Discord.
 
 Automatic startup on Windows.
 
@@ -18,7 +18,7 @@ Editing the Discord Client ID.
 
 Exiting the program.
 
-Tutorial – Adding a Logo to Discord RPC
+ # Tutorial – Adding a Logo to Discord RPC
 Access the Discord Developer Portal Visit Discord Developer Portal and log in.
 
 Upload Images In the Rich Presence section, navigate to Art Assets. Upload a square image with at least 512x512 pixels and name it (for example, survvvv).
